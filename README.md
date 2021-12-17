@@ -21,7 +21,7 @@ Jugador activo de CTF:
 + 2020 miembro del equipo de Colors . Ranking en España número 6 en Colors.
 
 # Experiencia
-+ **1/06/2021** - **1/01/2022** Practicas extracurriculares como analista junior en Blue Team  en Dantia Tecnología limk 
++ **1/06/2021** - **1/01/2022** Practicas extracurriculares como analista junior en Blue Team  en Dantia Tecnología
 
 # Formación extra academémica
 
