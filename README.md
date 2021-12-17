@@ -14,7 +14,7 @@
 - **CTFTime**: [m0riart3](https://ctftime.org/user/94091)
 
 # Sobre mi
-Apasionado del analisis de malware y de la ciberseguridad.
+Apasionado del análisis de malware y de la ciberseguridad.
 Estudiante de ingeniería informática en la universidad de Cádiz, actualmente cursando  3er  curso. 
 Jugador activo de CTF:
 + Miembro del equipo de Flaggermeister siendo el responsable de los retos de reversing y cryppto. Corresponsable de los retos de Forensic. 
