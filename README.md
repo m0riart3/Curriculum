@@ -14,12 +14,16 @@
 - **CTFTime**: [m0riart3](https://ctftime.org/user/94091)
 
 # Sobre mi
-Estudiante de ingeniería informática en la universidad de Cádiz, actualmente cursando el 3 curso. Jugador activo de CTFs, durante 2020 estuve en el equipo de Colors (top 6 de España en CTFTime 2020) y actualmente en el equipo de Flaggermeister (actualmente top 2 de España en CTFTime). Dentro del equipo soy el encargado de los retos de reversing y crypto, aunque ayudo en retos de forensic
+Apasionado del analisis de malware y de la ciberseguridad.
+Estudiante de ingeniería informática en la universidad de Cádiz, actualmente cursando  3er  curso. 
+Jugador activo de CTF:
++ Miembro del equipo de Flaggermeister siendo el responsable de los retos de reversing y cryppto. Corresponsable de los retos de Forensic. 
++ 2020 miembro del equipo de Colors . Ranking en España número 6 en Colors.
 
 # Experiencia
-+ **1/06/2021** - **1/01/2022** Practicas de la carrera en Dantia Tecnología realizando funciones de analista junior en la parte Blue team (Jerez)
++ **1/06/2021** - **1/01/2022** Practicas extracurriculares como analista junior en Blue Team  en Dantia Tecnología limk 
 
-# Formación
+# Formación extra academémica
 
 ## PentestAcademy
 + Tshark Basics: [Badge](https://v2.credential.net/21c2a680-663c-4d24-97b9-fe6ca229ca25#gs.j2eb8i)
