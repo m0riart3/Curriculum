@@ -12,18 +12,19 @@
 - **Github**: [m0riart3](https://github.com/m0riart3)
 - **HackTheBox**: [m0riart3](https://www.hackthebox.com/home/users/profile/423217)
 - **CTFTime**: [m0riart3](https://ctftime.org/user/94091)
+- **TryHackMe**: [darkfury713](https://tryhackme.com/p/darkfury713)
 
 # Sobre mi
 Apasionado del análisis de malware y de la ciberseguridad.
-Estudiante de ingeniería informática en la universidad de Cádiz, actualmente cursando  3er  curso. 
+Estudiante de ingeniería informática en la universidad de Cádiz, actualmente cursando  3°  curso. 
 Jugador activo de CTF:
-+ Miembro del equipo de Flaggermeister siendo el responsable de los retos de reversing y cryppto. Corresponsable de los retos de Forensic. 
++ Miembro del equipo de Flaggermeister siendo el responsable de los retos de reversing y crypto. Corresponsable de los retos de Forensic. 
 + 2020 miembro del equipo de Colors . Ranking en España número 6 en Colors.
 
 # Experiencia
-+ **1/06/2021** - **1/01/2022** Practicas extracurriculares como analista junior en Blue Team  en Dantia Tecnología
++ **1/07/2021** - **1/01/2022** Practicas extracurriculares como analista junior en Blue Team  en Dantia Tecnología
 
-# Formación extra academémica
+# Formación
 
 ## PentestAcademy
 + Tshark Basics: [Badge](https://v2.credential.net/21c2a680-663c-4d24-97b9-fe6ca229ca25#gs.j2eb8i)
@@ -37,13 +38,15 @@ Jugador activo de CTF:
 + Cisco Cybersecurity Essentials [Certificado](https://github.com/m0riart3/Curriculum/blob/main/Certificados/Cisco/CarlosFlethes-Cybersecurity%20Es-certificate.pdf)
 + Cisco Introduction to IoT  [Certificado](https://github.com/m0riart3/Curriculum/blob/main/Certificados/Cisco/CarlosFlethes-Introduction%20to%20-certificate.pdf)
 + Cisco NDG Linux 1 [Certificado](https://github.com/m0riart3/Curriculum/blob/main/Certificados/Cisco/CarlosFlethes-NDG%20Linux%20Essent-certificate.pdf) 
-+ Cisco CCNA v7 [Cerificado](https://github.com/m0riart3/Curriculum/blob/main/Certificados/Cisco/CarlosFlethes%20Montesin-RC_20_21-certificate%20(1).pdf) [Merito](https://github.com/m0riart3/Curriculum/blob/main/Certificados/Cisco/CarlosFlethes%20Montesin-RC_20_21-letter.pdf)
++ Cisco CCNA v7 [Certificado](https://github.com/m0riart3/Curriculum/blob/main/Certificados/Cisco/CarlosFlethes%20Montesin-RC_20_21-certificate%20(1).pdf) [Merito](https://github.com/m0riart3/Curriculum/blob/main/Certificados/Cisco/CarlosFlethes%20Montesin-RC_20_21-letter.pdf)
+
+
 
 ## Tryhackme
 + Cyber Defense Learning Path [Certificado](https://github.com/m0riart3/Curriculum/blob/main/Certificados/THM/THM-0EVIXNGZOW.png)
 
 ## Sophos
-+ Sophos Cerficied Engineer [Certificado](https://github.com/m0riart3/Curriculum/blob/main/Certificados/Sophos/5D93A68ED2764EBE9F7B2164E2FF879C46605.pdf)
++ Sophos Certified Engineer [Certificado](https://github.com/m0riart3/Curriculum/blob/main/Certificados/Sophos/5D93A68ED2764EBE9F7B2164E2FF879C46605.pdf)
 
 ## RangeForce
 + SOC Analyst 1 [Badge](https://www.credly.com/earner/earned/badge/499abaaf-0897-4032-8e84-b0e6cb024384)
@@ -65,8 +68,5 @@ Jugador activo de CTF:
 ##Meritos
 + Semifinalista de la National Cyberleague 2021
 + Primer clasificado en la categoría de estudiante de la UCA en el CTF Cibersecurity Day
-
-
-
 
 *Gracias [srbleu](https://github.com/srbleu/Curriculum) por esta plantilla*
