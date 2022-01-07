@@ -65,7 +65,7 @@ Jugador activo de CTF:
 + Hacktober CTF 2020 DEADFACE [Badge](https://badgr.com/backpack/badges/5f90ac68beea1f2556db3c1c)
 + Hacktober CTF 2021 DEADFACE [Badge](https://badgr.com/backpack/badges/616c85da5281534faeb7100a)
 
-##Meritos
+## Meritos
 + Semifinalista de la National Cyberleague 2021
 + Primer clasificado en la categoría de estudiante de la UCA en el CTF Cibersecurity Day
 
