@@ -53,6 +53,7 @@ Jugador activo de CTF:
 + SOC Analyst 1 elite [Badge](https://www.credly.com/earner/earned/badge/e4ba7d96-8748-49f2-97c5-21c0254ff902)
 + SOC Challenge [Badge](https://www.credly.com/earner/earned/badge/0f40706c-6427-4075-92ef-72dac8f063aa)
 + Community Edition All-Star [Badge](https://www.credly.com/earner/earned/badge/974a56a9-702b-4866-aadf-ae89af9705c5)
++ Ransomware Ready [Badge](https://www.credly.com/earner/earned/badge/1fac3db8-bf03-4293-b96a-e4e9cfee3f8d)
 
 ## CyberDefenders
 + Introduction to Digital Forensic [Certificado](https://github.com/m0riart3/Curriculum/blob/main/Certificados/Cyberdefenders/Carlos%20Flethes%20Montesinos%20-%202021-05-30.pdf)
