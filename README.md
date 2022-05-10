@@ -51,6 +51,7 @@ Jugador activo de CTF:
 ## RangeForce
 + SOC Analyst 1 [Badge](https://www.credly.com/earner/earned/badge/499abaaf-0897-4032-8e84-b0e6cb024384)
 + SOC Analyst 1 elite [Badge](https://www.credly.com/earner/earned/badge/e4ba7d96-8748-49f2-97c5-21c0254ff902)
++ SOC Analyst 2 [Badge](https://www.credly.com/earner/earned/badge/3f9ad284-cdc3-4ed3-94ca-da44998ac5c2)
 + SOC Challenge [Badge](https://www.credly.com/earner/earned/badge/0f40706c-6427-4075-92ef-72dac8f063aa)
 + Community Edition All-Star [Badge](https://www.credly.com/earner/earned/badge/974a56a9-702b-4866-aadf-ae89af9705c5)
 + Ransomware Ready [Badge](https://www.credly.com/earner/earned/badge/1fac3db8-bf03-4293-b96a-e4e9cfee3f8d)
@@ -69,5 +70,6 @@ Jugador activo de CTF:
 ## Meritos
 + Semifinalista de la National Cyberleague 2021
 + Primer clasificado en la categoría de estudiante de la UCA en el CTF Cibersecurity Day
++ Taller de "Introducción al análisis de malware" en el master de ciberseguridad en la universidad de Cádiz
 
-*Gracias [srbleu](https://github.com/srbleu/Curriculum) por esta plantilla*
+
